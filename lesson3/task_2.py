@@ -6,5 +6,5 @@ stage4 = input("Введите четвертый этап развития че
 stage5 = input("Введите пятый этап развития человека: ")
 stage6 = input("Введите шестой этап развития человека: ")
 
-# dwa
+# Вывод всех стадий
 print(stage1, stage2, stage3, stage4, stage5, stage6, sep=' => ')
